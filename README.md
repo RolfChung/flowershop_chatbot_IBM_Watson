@@ -1,7 +1,7 @@
 # flowershop_chatbot_IBM_Watson
 Creating a flower shop chatbot with "IBM Watson Assistant" without coding using given functionalities.
 
-The flower shop chatbot called Rose is available on website made with Wordpress.
+The flower shop chatbot called Rose is available on a website made with Wordpress.
 
 <a href="https://rolfchung.intelaedu.com/" target="_blank">Chat with Rose</a> 
 
