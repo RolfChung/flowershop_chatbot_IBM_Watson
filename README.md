@@ -5,7 +5,7 @@ The flower shop chatbot called Rose is available on a website made with Wordpres
 
 <a href="https://rolfchung.intelaedu.com/" target="_blank">Chat with Rose</a> 
 
-In the words of IBM
+In the words of IBM:
 
 Watson Assistant is an AI assistant for business. It is the industry leading enterprise AI technology enabling business users and developers to collaborate and build conversational AI solutions. It's highly flexible, deploying in small, focused solutions or can easily scale to enterprise deployments supporting millions of conversations.
 
